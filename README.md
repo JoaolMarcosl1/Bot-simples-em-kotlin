@@ -1,3 +1,3 @@
-*Bot simples*
+Bot simples
 <hr>
 Ainda em testes
