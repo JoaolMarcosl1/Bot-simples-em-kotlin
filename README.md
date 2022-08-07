@@ -1,2 +1,2 @@
-# Bot-simples-em-kotlin
+*Bot simples*
 Ainda em testes
